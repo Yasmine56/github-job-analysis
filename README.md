@@ -25,7 +25,7 @@ Main file: app/dashboard.R
 
 ## Dependencies
 
-- R >= 4.x
+- R >= 4.3.1
 - Shiny
 - dplyr
 - ggplot2
